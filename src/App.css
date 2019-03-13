@@ -38,6 +38,7 @@ img {
 .bark {
   position: relative;
   float: right;
+  margin-top: 60px;
 }
 .dogContainer {
   width: 50%;
